@@ -1,0 +1,6 @@
+{
+  "name": "evodoc-license-mit",
+  "description": "License text: MIT",
+  "tags": ["license", "licence", "mit", "text"],
+  "variables": ["YEAR", "COPYRIGHT_HOLDER"]
+}
